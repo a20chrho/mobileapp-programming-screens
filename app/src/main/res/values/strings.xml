@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Screens</string>
+    <string name="BUTTONACT2">Go To Activity2</string>
+    <string name="BUTTONACT1">Go To Activity1</string>
+    <string name="edit_message">Enter your text</string>
+    <string name="button_send">Send</string>
 </resources>
